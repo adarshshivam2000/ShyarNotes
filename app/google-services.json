@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "842701930426",
+    "project_id": "shyarnotes",
+    "storage_bucket": "shyarnotes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842701930426:android:5fb911c6c636d04d6ea783",
+        "android_client_info": {
+          "package_name": "com.example.shyarnotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "842701930426-si92smts085no1c3sd7lff2c9o924bml.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2oi_k2iaddZQ9QRBY8col18bjmkYJqeQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "842701930426-si92smts085no1c3sd7lff2c9o924bml.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
